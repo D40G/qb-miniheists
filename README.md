@@ -1,7 +1,13 @@
 # qb-miniheists
 3 simple mini heists for beginners. lets you configure the reward payments and random items you may get from doing a heist. 
 
-Uses the latest versions of qbcore, qbmenu, qbtarget.
+Uses the latest versions 
+
+## Dependencies
+Qb-core 
+qb-menu 
+qb-target
+memorygame_2 by Nathan#8860 
 
 ## Add to qb-core/shared/items.lua
 ```
