@@ -1,5 +1,8 @@
 # qb-miniheists
 3 simple mini heists for beginners. lets you configure the reward payments and random items you may get from doing a heist. 
+i plan to add more heists to it. feel free to request one
+
+Discord - https://discord.gg/3WYz3zaqG5
 
 Uses the latest versions 
 
