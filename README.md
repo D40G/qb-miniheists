@@ -4,10 +4,12 @@
 Uses the latest versions 
 
 ## Dependencies
-Qb-core 
-qb-menu 
-qb-target
-memorygame_2 by Nathan#8860 
+```
+-Qb-core 
+-qb-menu 
+-qb-target
+-memorygame_2 by Nathan#8860 
+```
 
 ## Add to qb-core/shared/items.lua
 ```
