@@ -11,7 +11,7 @@ Uses the latest versions
 -Qb-core 
 -qb-menu 
 -qb-target
--memorygame_2 by Nathan#8860 
+-memorygame_2 by Nathan#8860 - https://github.com/Nathan-FiveM/memorygame_2
 ```
 
 ## Add to qb-core/shared/items.lua
